@@ -6,7 +6,7 @@
 
 ## About this repository
 
-This repository documents the India Book of Records (IBR) recognition awarded to independent researcher **Kallol Chakrabarti** (Lucknow, Uttar Pradesh) for publishing **158 sole-authored DOI research papers between 1 January and 31 December 2025** across platforms including Zenodo, DeSci Labs and SSRN. The achievement was confirmed by IBR on 8 October 2026, and the certificate is dated 23 October 2026.
+This repository documents the India Book of Records (IBR) recognition awarded to independent researcher **Kallol Chakrabarti** (Lucknow, Uttar Pradesh) for publishing **158 sole-authored DOI research papers between 1 January and 31 December 2025** across platforms including Zenodo, DeSci Labs and SSRN. 
 
 It also hosts a dark-mode landing page (`index.html`) that presents the wider impact of his work.
 
